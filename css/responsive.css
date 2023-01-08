@@ -1,0 +1,48 @@
+/* @media (max-width: 575.98px) {
+    
+}
+
+@media (min-width: 576px) and ( max-width: 767.98px) {
+    
+} */
+
+@media (min-width: 768px) and ( max-width: 991.98px) {
+    .main-menu i{
+        color: #fff;
+    }
+    .main-menu .navbar-toggler{
+        border: 1px solid #fff;
+    }
+    .main-menu .navbar-nav{
+        background: #000;
+        padding: 20px 0;
+    }
+    .main-menu .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .banner-item img {
+        height: 75vh;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        margin: auto;
+    }
+    .nav-link {
+        padding: 12px 0;
+    }
+    .navbar{
+        border-bottom: 0px solid #fec70065;
+        
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after{
+        bottom: 3px;
+        height: 2px;
+    }
+}
+
+/* @media (min-width: 992px) and ( max-width: 1199.98px) {
+    
+}
+
+@media (min-width: 1200px) and ( max-width: 1399.98px) {
+    
+} */
